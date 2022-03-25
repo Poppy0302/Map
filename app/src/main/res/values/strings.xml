@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Map</string>
+    <string name="login">Login</string>
+    <string name="hint_enterUserName">User Name...</string>
+    <string name="password">Password</string>
+    <string name="title_activity_maps">Maps</string>
+    <string name="search">ค้นหา</string>
+    <string name="clear">Clear</string>
+    <string name="logout">Logout</string>
+</resources>
